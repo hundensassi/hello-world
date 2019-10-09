@@ -5,3 +5,6 @@ Stay tuned! Don't look at the total eclipse with your bare eyes, it's not bright
 
 Now this is something really cool. You can actually learn German from Duolingo at the same time you learn English.
 Es gehört Ihnen.
+Ja, vielleicht.
+Aber plötzlich!
+This user of the Hello World project is undergoing a major learning curve.
