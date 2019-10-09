@@ -7,4 +7,4 @@ Now this is something really cool. You can actually learn German from Duolingo a
 Es gehört Ihnen.
 Ja, vielleicht.
 Aber plötzlich!
-This user of the Hello World project is undergoing a major learning curve.
+This user of the Hello World project is having a steep learning curve.
